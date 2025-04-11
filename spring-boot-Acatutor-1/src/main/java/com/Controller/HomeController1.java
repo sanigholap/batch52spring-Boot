@@ -14,4 +14,11 @@ public class HomeController1 {
 		
 		return "Hello I am java developer";
 	}
+	
+public String getMesssage() {
+		
+		return "Welcome";
+	}
+	
+	
 }
